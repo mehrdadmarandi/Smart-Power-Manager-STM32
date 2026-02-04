@@ -1,0 +1,8 @@
+# build files 
+build/ 
+*.o 
+*.elf 
+# IDE files 
+.settings/ 
+Debug/ 
+Release/ 
